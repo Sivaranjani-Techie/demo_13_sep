@@ -13,6 +13,6 @@ int main() {
 
     printf("c = %d, d = %d\n", c, d);   // Print the results
 
-    free(ptr);  // Always free the memory after use
+    //free(ptr);  // Always free the memory after use
     return 0;
 }
